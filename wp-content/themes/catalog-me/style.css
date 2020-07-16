@@ -555,7 +555,7 @@ a:active {
 
 .menu_arrow{
     display: none;
-    background-image: url(http:///wp-content/themes/catalog-me/img/sub-menu-arrow.png);
+    background-image: url(https://variousnabil.github.io/Oktapin/wp-content/themes/catalog-me/img/sub-menu-arrow.png);
     width: 10px;
     height: 7px;
     position: absolute;
@@ -1497,7 +1497,7 @@ ol.comment-list > li.comment {
 
 /* RATING */
 .rating-wrapper {
-    background: url('http:///wp-content/themes/catalog-me/img/stars-sprite.png') no-repeat 0 0;
+    background: url('https://variousnabil.github.io/Oktapin/wp-content/themes/catalog-me/img/stars-sprite.png') no-repeat 0 0;
     background-size: 90px 30px;
     height: 15px !important;
     max-height: 15px !important;
@@ -1508,7 +1508,7 @@ ol.comment-list > li.comment {
 
 .rating-wrapper .rating {
     display: block;
-    background: url('http:///wp-content/themes/catalog-me/img/stars-sprite.png') no-repeat 0 -15px;
+    background: url('https://variousnabil.github.io/Oktapin/wp-content/themes/catalog-me/img/stars-sprite.png') no-repeat 0 -15px;
     height: 100%;
     max-height: 100%;
     padding: 0;
@@ -1674,7 +1674,7 @@ h2.drops-name {
     font-family: 'Open Sans', sans-serif;
     color: #5e5e5e;
     font-size: 16px;
-    background: url('http:///wp-content/themes/catalog-me/framework/img/accordion-closed.png') 99% 12px no-repeat;
+    background: url('https://variousnabil.github.io/Oktapin/wp-content/themes/catalog-me/framework/img/accordion-closed.png') 99% 12px no-repeat;
     padding-bottom: 0;
 }
 
@@ -1691,7 +1691,7 @@ h2.drops-name {
 }
 
 h2.drops-name.open {
-    background: url('http:///wp-content/themes/catalog-me/framework/img/accordion-open.png') 99% 12px no-repeat;
+    background: url('https://variousnabil.github.io/Oktapin/wp-content/themes/catalog-me/framework/img/accordion-open.png') 99% 12px no-repeat;
 }
 
 /* Case Studies */

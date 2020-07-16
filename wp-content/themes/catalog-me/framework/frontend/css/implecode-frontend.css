@@ -385,17 +385,17 @@ h1, h2, h3, h4, h5, h6 {
 /* al-box */
 .al-box.warning {
     background-color: #fefccb;
-    background-image: url('http:///wp-content/themes/catalog-me/framework/frontend/css/img/warning.png');
+    background-image: url('https://variousnabil.github.io/Oktapin/wp-content/themes/catalog-me/framework/frontend/css/img/warning.png');
 }
 
 .al-box.info {
     background-color: #dbecff;
-    background-image: url('http:///wp-content/themes/catalog-me/framework/frontend/css/img/info.png');
+    background-image: url('https://variousnabil.github.io/Oktapin/wp-content/themes/catalog-me/framework/frontend/css/img/info.png');
 }
 
 .al-box.success {
     background-color: #e1f3c1;
-    background-image: url('http:///wp-content/themes/catalog-me/framework/frontend/css/img/success.png');
+    background-image: url('https://variousnabil.github.io/Oktapin/wp-content/themes/catalog-me/framework/frontend/css/img/success.png');
 }
 
 .al-box {
@@ -711,7 +711,7 @@ aside.product_search input.product-search-submit {
     top: 0;
     height: 100%;
     width: 60px;
-    background: #123f5c url('http:///wp-content/themes/catalog-me/framework/frontend/css/img/search.png');
+    background: #123f5c url('https://variousnabil.github.io/Oktapin/wp-content/themes/catalog-me/framework/frontend/css/img/search.png');
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: 50%;
